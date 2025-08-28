@@ -2,12 +2,9 @@
   <img alt="HoloStudio Promotional Video" src="https://github.com/FilipeLopesPires/HoloStudio/blob/main/img/thumbnail.png" width="100%"/>
 </a>
 
-# HoloStudio
-Volumetric Video Production Tool for Immersive Applications
-
 ## Overview
 
-Presenting Holographic Studio, a volumetric video capturing and production system for performance capture, visible from any perspective in virtual environments. 
+Presenting Holographic Studio, a **volumetric video capturing and production system** for performance capture, visible from any perspective in virtual environments. 
 This technology not only finds a natural application under the entertainment industry such as video-games and remote concerts, but also extends itself to other industries such as sports, fashion, culture, remote communication and education, military and medical training, among others. 
 
 Holographic Studio, or HoloStudio for short, was born as a joint initiative between [University of Aveiro](https://www.ua.pt/) and [VR360](https://www.vr360.pt) and composes the work for my MSc. thesis in Informatics Engineering, year 2020/2021. This dissertation aims at reducing the gap between this technology, typically characterized by expensive hardware, scarce availability or high usage costs, and small and medium-sized companies that would benefit with the increase in immersion of their content. 
@@ -24,7 +21,7 @@ The final capture studio, with custom lighting conditions, is highly portable an
 
 <img alt="HoloStudio Capture Studio Image 1" src="https://github.com/FilipeLopesPires/HoloStudio/blob/main/img/multicam-sync-daisychain.png" width="49%"> <img alt="HoloStudio Capture Studio Image 2" src="https://github.com/FilipeLopesPires/HoloStudio/blob/main/img/multicam-placement.png" width="49%">
 
-<img alt="HoloStudio Capture Studio Image 1" src="https://github.com/FilipeLopesPires/HoloStudio/blob/main/img/studio_1.png" width="49%"> <img alt="HoloStudio Capture Studio Image 2" src="https://github.com/FilipeLopesPires/HoloStudio/blob/main/img/studio_1.png" width="49%">
+<img alt="HoloStudio Capture Studio Image 1" src="https://github.com/FilipeLopesPires/HoloStudio/blob/main/img/studio-1.png" width="49%"> <img alt="HoloStudio Capture Studio Image 2" src="https://github.com/FilipeLopesPires/HoloStudio/blob/main/img/studio-1.png" width="49%">
 
 ## Processing & Visualization
 
